@@ -1,1 +1,1 @@
-# table-school-V8
+# table-school
